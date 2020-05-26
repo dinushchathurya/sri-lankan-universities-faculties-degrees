@@ -1,0 +1,283 @@
+[{
+        "id": "1",
+        "name": "Faculty of Arts",
+        "university_id": "1"
+    },
+    {
+        "id": "2",
+        "name": "Faculty of Education",
+        "university_id": "1"
+    },
+    {
+        "id": "3",
+        "name": "Faculty of Law",
+        "university_id": "1"
+    },
+    {
+        "id": "4",
+        "name": "Faculty of Management and Finance",
+        "university_id": "1"
+    },
+    {
+        "id": "5",
+        "name": "Faculty of Medicine",
+        "university_id": "1"
+    },
+    {
+        "id": "6",
+        "name": "Faculty of Science",
+        "university_id": "1"
+    },
+    {
+        "id": "7",
+        "name": "Faculty of Agriculture",
+        "university_id": "2"
+    },
+    {
+        "id": "8",
+        "name": "Faculty of Allied Health Sciences",
+        "university_id": "2"
+    },
+    {
+        "id": "9",
+        "name": "Faculty of Arts",
+        "university_id": "2"
+    },
+    {
+        "id": "10",
+        "name": "Faculty of Dental Sciences",
+        "university_id": "2"
+    },
+    {
+        "id": "11",
+        "name": "Faculty of Engineering",
+        "university_id": "2"
+    },
+    {
+        "id": "12",
+        "name": "Faculty of Medicine",
+        "university_id": "2"
+    },
+
+    {
+        "id": "13",
+        "name": "Faculty of Science",
+        "university_id": "2"
+    }, 
+    {
+        "id": "14",
+        "name": "Faculty of Veterinary Medicine & Animal Science",
+        "university_id": "2"
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "university_id": ""
+    }
+]

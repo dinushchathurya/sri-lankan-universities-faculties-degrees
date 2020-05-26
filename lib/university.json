@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1",
+        "sortname": "UoC",
+        "name": "University of Colombo",
+        "address": "94, Cumaratunga Munidasa Mawatha, Colombo",
+        "phonecode": "+94 (11) 258 1835"
+    },
+    {
+        "id": "2",
+        "sortname": "UoP",
+        "name": "University of Peradeniya",
+        "address": "Peradeniya. 20400 Sri Lanka",
+        "phonecode": "+94 (81) 238 8301"
+    },
+    {
+        "id": "3",
+        "sortname": "USJP",
+        "name": "University of Sri Jayewardenepura",
+        "address": "Gangodawila, Nugegoda. Sri Lanka",
+        "phonecode": "+94 (11) 275 8000"
+    },
+    {
+        "id": "4",
+        "sortname": "UoK",
+        "name": "University of Kelaniya",
+        "address": "Kelaniya. 11600 Sri Lanka",
+        "phonecode": "+94 (11) 2 903 903"
+    },
+    {
+        "id": "5",
+        "sortname": "UoM",
+        "name": "University of Moratuwa",
+        "address": "Katubedda, Moratuwa, 10400, Sri Lanka",
+        "phonecode": "+94 (11) 265 0301"
+    },
+    {
+        "id": "6",
+        "sortname": "UoJ",
+        "name": "University of Jaffna",
+        "address": "P.O.Box 57, Thirunelvely, Jaffna. Sri Lanka",
+        "phonecode": "+94 (21) 221 8100"
+    },
+    {
+        "id": "7",
+        "sortname": "UoR",
+        "name": "University of Ruhuna",
+        "address": "Wellamadama, Matara. Sri Lanka",
+        "phonecode": "+94 (41) 222 2681 2"
+    },
+    {
+        "id": "8",
+        "sortname": "OUSL",
+        "name": "The Open University of Sri Lanka",
+        "address": "Nawala, Nugegoda. Sri Lanka",
+        "phonecode": "+94 (11) 288 1000"
+    },
+     {
+         "id": "9",
+         "sortname": "EUSL",
+         "name": "Eastern University, Sri Lanka",
+         "address": "Vantharumoolai, Chenkalady. 30350 Sri Lanka",
+         "phonecode": "+94 (65) 224 0490"
+    },
+    {
+        "id": "10",
+        "sortname": "SEUSL",
+        "name": "South Eastern University of Sri Lanka",
+        "address": "University Park, Oluvil. #32360 Sri Lanka",
+        "phonecode": "+94 (67) 225 5062 4"
+    },
+    {
+        "id": "11",
+        "sortname": "RUSL",
+        "name": "Rajarata University of Sri Lanka",
+        "address": "Mihintale. Sri Lanka",
+        "phonecode": "+94 (25) 226 6643"
+    },
+    {
+        "id": "12",
+        "sortname": "WYB",
+        "name": "Wayamba University of Sri Lanka",
+        "address": "Lional Jayathilaka Mawatha, Kuliyapitiya, 60200. Sri Lanka",
+        "phonecode": "+94 (37) 228 1412"
+    },
+    {
+        "id": "13",
+        "sortname": "SUSL",
+        "name": "Sabaragamuwa University of Sri Lanka",
+        "address": "P.O Box 02, Belihuloya. 70140 Sri Lanka",
+        "phonecode": "+94 (45) 228 0014"
+    },
+    {
+        "id": "14",
+        "sortname": "UWU",
+        "name": "Uva Wellassa University of Sri Lanka ",
+        "address": "2nd Mile Post, Passara Road, Badulla. 90000 Sri Lanka",
+        "phonecode": "+94 (55) 222 6400"
+    },
+    {
+        "id": "15",
+        "sortname": "UVPA",
+        "name": "University of the Visual and Performing Arts",
+        "address": "No 21, Albert Crescent, Colombo 07. Sri Lanka",
+        "phonecode": "+94 (11) 269 6971"
+    }
+]
