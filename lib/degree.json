@@ -525,9 +525,126 @@
         "faculty_id": "14"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "107",
+        "name": "Bachelor of Applied Science in Food Technology",
+        "faculty_id": "15"
+    },
+    {
+        "id": "108",
+        "name": "Bachelor of Science (General)",
+        "faculty_id": "15"
+    },
+    {
+        "id": "109",
+        "name": "Bachelor of Science (Special)",
+        "faculty_id": "15"
+    },
+    {
+        "id": "110",
+        "name": "Bachelor of Science (Special) in Biology",
+        "faculty_id": "15"
+    },
+    {
+        "id": "111",
+        "name": "Bachelor of Science (Special) in Botany",
+        "faculty_id": "15"
+    },
+
+    {
+        "id": "112",
+        "name": "Bachelor of Science (Special) in Chemistry",
+        "faculty_id": "15"
+    },
+    {
+        "id": "113",
+        "name": "Bachelor of Science (Special) in Computer Science",
+        "faculty_id": "15"
+    },
+    {
+        "id": "114",
+        "name": "Bachelor of Science (Special) in Forestry & Environmental Science",
+        "faculty_id": "15"
+    },
+    {
+        "id": "115",
+        "name": "Bachelor of Science (Special) in Geology",
+        "faculty_id": "15"
+    },
+
+    {
+        "id": "116",
+        "name": "Bachelor of Science (Special) in Mathematics",
+        "faculty_id": "15"
+    },
+    {
+        "id": "117",
+        "name": "Bachelor of Science (Special) in Molecular Biology and Biotechnology",
+        "faculty_id": "15"
+    },
+    {
+        "id": "118",
+        "name": "Bachelor of Science (Special) in Physics",
+        "faculty_id": "15"
+    },
+
+    {
+        "id": "119",
+        "name": "Bachelor of Science (Special) in Plant Biotechnology",
+        "faculty_id": "15"
+    },
+    {
+        "id": "120",
+        "name": "Bachelor of Science (Special) in Statistics",
+        "faculty_id": "15"
+    },
+    {
+        "id": "121",
+        "name": "Bachelor of Science (Special) in Zoology",
+        "faculty_id": "15"
+    },
+    {
+        "id": "122",
+        "name": "Bachelor of Arts (General)",
+        "faculty_id": "16"
+    },
+    {
+        "id": "123",
+        "name": "Bachelor of Arts (Special) in Anthropology",
+        "faculty_id": "16"
+    },
+    {
+        "id": "124",
+        "name": "Bachelor of Arts (Special) in Archaeology",
+        "faculty_id": "16"
+    },
+    {
+        "id": "125",
+        "name": "Bachelor of Arts (Special) in Buddhist Civilization",
+        "faculty_id": "16"
+    },
+    {
+        "id": "126",
+        "name": "Bachelor of Arts (Special) in Buddhist Philosophy",
+        "faculty_id": "16"
+    },
+    {
+        "id": "127",
+        "name": "Bachelor of Arts (Special) in Criminology",
+        "faculty_id": "16"
+    },
+    {
+        "id": "128",
+        "name": "Bachelor of Arts (Special) in Cultural and Aesthetic Studies",
+        "faculty_id": "16"
+    }, {
+        "id": "129",
+        "name": "Bachelor of Arts (Special) in Economics",
+        "faculty_id": "16"
+    },
+    {
+        "id": "130",
+        "name": "Bachelor of Arts (Special) in English",
+        "faculty_id": "16"
     },
     {
         "id": "",
@@ -543,12 +660,17 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }
     {
         "id": "",
         "name": "",
         "faculty_id": ""
     },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
 
     {
         "id": "",
@@ -559,7 +681,16 @@
         "id": "",
         "name": "",
         "faculty_id": ""
+    }{
+        "id": "",
+        "name": "",
+        "faculty_id": ""
     },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
     {
         "id": "",
         "name": "",
@@ -569,8 +700,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
-
+    }
     {
         "id": "",
         "name": "",
@@ -580,13 +710,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
-    {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
-    },
-
+    }
     {
         "id": "",
         "name": "",
@@ -596,7 +720,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }
     {
         "id": "",
         "name": "",
@@ -606,7 +730,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }
     {
         "id": "",
         "name": "",
@@ -616,12 +740,36 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }
     {
         "id": "",
         "name": "",
         "faculty_id": ""
     },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }{
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
 
     {
         "id": "",
@@ -633,4 +781,86 @@
         "name": "",
         "faculty_id": ""
     }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }
+
 ]
