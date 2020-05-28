@@ -221,58 +221,126 @@
         "university_id": "9"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "45",
+        "name": "Faculty of Science",
+        "university_id": "9"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "46",
+        "name": "Faculty of Health-Care Sciences",
+        "university_id": "9"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "47",
+        "name": "Faculty of Applied Sciences",
+        "university_id": "10"
+    },
+    {
+        "id": "48",
+        "name": "Faculty of Management & Commerce",
+        "university_id": "10"
+    },
+    {
+        "id": "49",
+        "name": "Faculty of Arts and Culture",
+        "university_id": "10"
+    },
+    {
+        "id": "50",
+        "name": "Faculty of Islamic Studies & Arabic Language",
+        "university_id": "10"
+    },
+    {
+        "id": "51",
+        "name": "Faculty of Agriculture",
+        "university_id": "11"
+    },
+    {
+        "id": "52",
+        "name": "Faculty of Applied Sciences",
+        "university_id": "11"
     },
 
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "53",
+        "name": "Faculty of Management Studies",
+        "university_id": "11"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "54",
+        "name": "Faculty of Medicine and Allied Sciences",
+        "university_id": "11"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "55",
+        "name": "Faculty of Social Sciences and Humanities",
+        "university_id": "11"
+    }
+    ,
+    {
+        "id": "56",
+        "name": "Faculty of Agriculture & Plantation Management",
+        "university_id": "12"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "57",
+        "name": "Faculty of Applied Sciences",
+        "university_id": "12"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
-    },
-
-    {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "58",
+        "name": "Faculty of Business Studies and Finance",
+        "university_id": "12"
     },
     {
-        "id": "",
-        "name": "",
-        "university_id": ""
+        "id": "59",
+        "name": "Faculty of Livestock, Fisheries & Nutrition",
+        "university_id": "12"
     },
     {
+        "id": "60",
+        "name": "Faculty of Agricultural Sciences",
+        "university_id": "13"
+    },
+    {
+        "id": "61",
+        "name": "Faculty of Applied Sciences",
+        "university_id": "13"
+    },
+    {
+        "id": "62",
+        "name": "Faculty of Geomatics",
+        "university_id": "13"
+    },
+    {
+        "id": "63",
+        "name": "Faculty of Management Studies",
+        "university_id": "13"
+    },
+    {
+        "id": "64",
+        "name": "Faculty of Social Sciences & Languages",
+        "university_id": "13"
+    },
+    {
+        "id": "65",
+        "name": "Faculty of Science & Technology",
+        "university_id": "14"
+    },
+    {
+        "id": "66",
+        "name": "Faculty of Management",
+        "university_id": "14"
+    },
+    {
+        "id": "67",
+        "name": "Faculty of Science & Technology",
+        "university_id": "14"
+    }, {
+        "id": "68",
+        "name": "Faculty of Dance and Drama",
+        "university_id": "15"
+    }, {
         "id": "",
         "name": "",
         "university_id": ""

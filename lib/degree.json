@@ -985,7 +985,7 @@
         "id": "198",
         "name": "Honours Degree of Bachelor of Science of Engineering - Specialisation: Material Science & Engineering",
         "faculty_id": "24"
-    }, 
+    },
     {
         "id": "199",
         "name": "Honours Degree of Bachelor of Science of Engineering - Specialisation: Mechanical Engineering",
@@ -1160,7 +1160,7 @@
         "id": "233",
         "name": "Bachelor of Science of Engineering specializing in Civil & Environmental Engineering",
         "faculty_id": "33"
-    }, 
+    },
     {
         "id": "234",
         "name": "Bachelor of Science of Engineering specializing in Electrical & Information Engineering",
@@ -1452,10 +1452,636 @@
         "faculty_id": "44"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "293",
+        "name": "Degree of Bachelor of Science (General)",
+        "faculty_id": "45"
     },
+    {
+        "id": "294",
+        "name": "Degree of Bachelor of Science Special in Botany",
+        "faculty_id": "45"
+    },
+    {
+        "id": "295",
+        "name": "Degree of Bachelor of Science Special in Chemistry",
+        "faculty_id": "45"
+    },
+    {
+        "id": "296",
+        "name": "Degree of Bachelor of Science Special in Computer Science & Mathematics",
+        "faculty_id": "45"
+    },
+    {
+        "id": "297",
+        "name": "Degree of Bachelor of Science Special in Phsyics",
+        "faculty_id": "45"
+    },
+    {
+        "id": "298",
+        "name": "Degree of Bachelor of Science Special in Zoology",
+        "faculty_id": "45"
+    },
+    {
+        "id": "299",
+        "name": "Bachelor of Science in Nursing",
+        "faculty_id": "46"
+    },
+    {
+        "id": "300",
+        "name": "MBBS",
+        "faculty_id": "46"
+    },
+    {
+        "id": "301",
+        "name": "Bachelor of Science (General)",
+        "faculty_id": "47"
+    },
+    {
+        "id": "302",
+        "name": "Bachelor of Science (Special) in Computer Science",
+        "faculty_id": "47"
+    },
+    {
+        "id": "303",
+        "name": "Bachelor of Science (Special) in Applied Statistics",
+        "faculty_id": "47"
+    },
+    {
+        "id": "304",
+        "name": "Bachelor of Business Administration (BBA Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "305",
+        "name": "Bachelor of Commerce (B.Com Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "306",
+        "name": "Bachelor of Science (Management Information Technology)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "307",
+        "name": "BBA / B.Com (Accounting Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "308",
+        "name": "BBA / B.Com (Finance Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "309",
+        "name": "BBA / B.Com (Human Resource Management Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "310",
+        "name": "BBA / B.Com (Information System Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "311",
+        "name": "BBA / B.Com (Marketing Special)",
+        "faculty_id": "48"
+    },
+    {
+        "id": "312",
+        "name": "Bachelor of Arts (General)",
+        "faculty_id": "49"
+    },
+    {
+        "id": "313",
+        "name": "Bachelor of Arts (Special)",
+        "faculty_id": "49"
+    },
+    {
+        "id": "314",
+        "name": "Bachelor of Arts (Special) in Economics",
+        "faculty_id": "49"
+    },
+    {
+        "id": "315",
+        "name": "Bachelor of Arts (Special) in Hindu Civilization",
+        "faculty_id": "49"
+    },
+    {
+        "id": "316",
+        "name": "Bachelor of Arts (Special) in Philosophy",
+        "faculty_id": "49"
+    },
+    {
+        "id": "317",
+        "name": "Bachelor of Arts (Special) in Political Science",
+        "faculty_id": "49"
+    },
+    {
+        "id": "318",
+        "name": "Bachelor of Arts (Special) in Sociology",
+        "faculty_id": "49"
+    },
+    {
+        "id": "319",
+        "name": "Bachelor of Arts (Special) in Tami",
+        "faculty_id": "49"
+    },
+    {
+        "id": "320",
+        "name": "Bachelor of Arts (Special) in Arabic Foreign Language & Translation",
+        "faculty_id": "50"
+    },
+    {
+        "id": "321",
+        "name": "Bachelor of Arts (General) in Arabic Language",
+        "faculty_id": "50"
+    },
+    {
+        "id": "322",
+        "name": "Bachelor of Arts (Special) in Arabic Linguistic & Translation",
+        "faculty_id": "50"
+    },
+    {
+        "id": "323",
+        "name": "Bachelor of Arts (Special) in Arabic Literature",
+        "faculty_id": "50"
+    },
+    {
+        "id": "324",
+        "name": "Bachelor of Arts (Special) in Islamic Banking & Finance",
+        "faculty_id": "50"
+    },
+    {
+        "id": "325",
+        "name": "Bachelor of Arts (Special) in Islamic Law",
+        "faculty_id": "50"
+    },
+    {
+        "id": "326",
+        "name": "Bachelor of Arts (General) in Islamic Studies",
+        "faculty_id": "50"
+    },
+    {
+        "id": "327",
+        "name": "Bachelor of Arts (Special) in Islamic Thought & Civilization",
+        "faculty_id": "50"
+    },
+    {
+        "id": "328",
+        "name": "Bachelor of Science in Agriculture",
+        "faculty_id": "51"
+    },
+    {
+        "id": "329",
+        "name": "Bachelor of Information and Communication Technology(General)",
+        "faculty_id": "52"
+
+    },
+    {
+        "id": "330",
+        "name": "Bachelor of Science (General)",
+        "faculty_id": "52"
+    },
+    {
+        "id": "331",
+        "name": "Bachelor of Science (Special) in Applied Biology",
+        "faculty_id": "52"
+    },
+    {
+        "id": "332",
+        "name": "Bachelor of Science (General) in Applied Sciences",
+        "faculty_id": "52"
+    },
+    {
+        "id": "333",
+        "name": "Bachelor of Science (Special) in Applied Sciences",
+        "faculty_id": "52"
+    },
+    {
+        "id": "334",
+        "name": "Bachelor of Science in Applied Sciences (Physical)",
+        "faculty_id": "52"
+    },
+    {
+        "id": "335",
+        "name": "Bachelor of Science (Special) in Biology & Physics",
+        "faculty_id": "52"
+    },
+    {
+        "id": "336",
+        "name": "Bachelor of Science (Special) in Health Promotion",
+        "faculty_id": "52"
+    },
+    {
+        "id": "337",
+        "name": "Bachelor of Science in Industrial Mathematics",
+        "faculty_id": "52"
+    },
+    {
+        "id": "338",
+        "name": "Bachelor of Business Administration (Special) in Accountancy & Finance",
+        "faculty_id": "53"
+    },
+    {
+        "id": "339",
+        "name": "Bachelor of Business Administration (Special) in Business Information Technology",
+        "faculty_id": "53"
+    },
+    {
+        "id": "340",
+        "name": "Bachelor of Business Administration (Special) in Business Management",
+        "faculty_id": "53"
+    },
+    {
+        "id": "341",
+        "name": "Bachelor of Business Administration (Special) in Tourism and Hospitality Management",
+        "faculty_id": "53"
+    },
+    {
+        "id": "342",
+        "name": "MBBS",
+        "faculty_id": "54"
+    },
+    {
+        "id": "343",
+        "name": "Bachelor of Arts (General)",
+        "faculty_id": "55"
+    },
+    {
+        "id": "344",
+        "name": "Bachelor of Arts (Special)",
+        "faculty_id": "55"
+    },
+    {
+        "id": "345",
+        "name": "Bachelor of Arts (Special) in Archaeology and Heritage Management",
+        "faculty_id": "55"
+    },
+    {
+        "id": "346",
+        "name": "Bachelor of Arts (Special) in Economic",
+        "faculty_id": "55"
+    },
+    {
+        "id": "347",
+        "name": "Bachelor of Arts (Special) in Environmental Management",
+        "faculty_id": "55"
+    },
+    {
+        "id": "348",
+        "name": "Bachelor of Arts (Special) in History",
+        "faculty_id": "55"
+    },
+    {
+        "id": "349",
+        "name": "Bachelor of Arts (Special) in Sinhala",
+        "faculty_id": "55"
+    },
+    {
+        "id": "350",
+        "name": "Bachelor of Science (Plantation Mangement) (External)",
+        "faculty_id": "56"
+    },
+    {
+        "id": "351",
+        "name": "Bachelor of Science of Agriculture",
+        "faculty_id": "56"
+    },
+    {
+        "id": "352",
+        "name": "Bachelor of Science (General)",
+        "faculty_id": "57"
+    },
+    {
+        "id": "353",
+        "name": "Bachelor of Science in (Joint Major",
+        "faculty_id": "57"
+    },
+    {
+        "id": "354",
+        "name": "BSc (Special) Degree in mathematics with statistics",
+        "faculty_id": "57"
+    },
+    {
+        "id": "355",
+        "name": "Bachelor of Science (Special) in Accountancy & Business Finance",
+        "faculty_id": "58"
+    },
+    {
+        "id": "356",
+        "name": "Bachelor of Science (Special) in Banking & Finance",
+        "faculty_id": "58"
+    },
+    {
+        "id": "357",
+        "name": "Bachelor of Science (Special) in Business Management",
+        "faculty_id": "58"
+    },
+    {
+        "id": "358",
+        "name": "Bachelor of Science (Special) in Insurance & Valuation",
+        "faculty_id": "58"
+    },
+    {
+        "id": "359",
+        "name": "Bachelor of Science (Special) in Food Production & Tech.Management",
+        "faculty_id": "59"
+    },
+    {
+        "id": "560",
+        "name": "Bachelor of Science (Special) in Food Science & Nutrition",
+        "faculty_id": "59"
+    },
+    {
+        "id": "561",
+        "name": "Bachelor of Science in Agriculture Sciences and Management",
+        "faculty_id": "60"
+    },
+    {
+        "id": "562",
+        "name": "Bachelor of Science (Special) in Applied Physics",
+        "faculty_id": "61"
+    },
+    {
+        "id": "563",
+        "name": "Bachelor of Science (Special) in Chemical Technology",
+        "faculty_id": "61"
+    },
+    {
+        "id": "564",
+        "name": "Bachelor of Science (Special) in Computer Science and Technology",
+        "faculty_id": "61"
+    },
+    {
+        "id": "564",
+        "name": "Bachelor of Science in Computing & Information Systems",
+        "faculty_id": "61"
+    },
+    {
+        "id": "565",
+        "name": "Bachelor of Science (Special) in Environmental Sciences and Natural Resources Management",
+        "faculty_id": "61"
+    },
+    {
+        "id": "566",
+        "name": "Bachelor of Science (Special) in Food Science and Technology",
+        "faculty_id": "61"
+    },
+    {
+        "id": "567",
+        "name": "Bachelor of Science in Physical Education",
+        "faculty_id": "61"
+    },
+    {
+        "id": "568",
+        "name": "Bachelor of Science in Sports Sciences & Management",
+        "faculty_id": "61"
+    },
+    {
+        "id": "568",
+        "name": "Bachelor of Science (Applied Science) in Environmental Science and Natural Resource Management",
+        "faculty_id": "61"
+    },
+    {
+        "id": "569",
+        "name": "Bachelor of Science (Applied Sciences) Physical Sciences",
+        "faculty_id": "61"
+    },
+    {
+        "id": "570",
+        "name": "Bachelor of Science Surveying Sciences (Cartography & GIS)",
+        "faculty_id": "62"
+    },
+    {
+        "id": "571",
+        "name": "Bachelor of Science Surveying Sciences (Photogrammetry & Remote Sensing)",
+        "faculty_id": "62"
+    },
+    {
+        "id": "572",
+        "name": "Bachelor of Science Surveying Sciences (Surveying & Geodesy)",
+        "faculty_id": "62"
+    },
+    {
+        "id": "573",
+        "name": "Bachelor of Science (Special) Business Management",
+        "faculty_id": "63"
+    },
+    {
+        "id": "574",
+        "name": "Bachelor of Science (Special) Eco Business Management",
+        "faculty_id": "63"
+    },
+    {
+        "id": "575",
+        "name": "Bachelor of Science (Special) Financial Management",
+        "faculty_id": "63"
+    },
+    {
+        "id": "576",
+        "name": "Bachelor of Science (Special) Marketing Management",
+        "faculty_id": "63"
+    },
+    {
+        "id": "577",
+        "name": "Bachelor of Science (Special) Tourism Management",
+        "faculty_id": "63"
+    },
+    {
+        "id": "578",
+        "name": "Bachelor of Arts (Special) Economics",
+        "faculty_id": "64"
+    },
+    {
+        "id": "579",
+        "name": "Bachelor of Arts (Special) Geography",
+        "faculty_id": "64"
+    },
+    {
+        "id": "580",
+        "name": "Bachelor of Arts (Special) Political Science",
+        "faculty_id": "64"
+    },
+    {
+        "id": "581",
+        "name": "Bachelor of Arts (Special) Sociology & Anthropology",
+        "faculty_id": "64"
+    },
+    {
+        "id": "582",
+        "name": "Bachelor of Arts (Special) Statistics",
+        "faculty_id": "64"
+    },
+    {
+        "id": "583",
+        "name": "Bachelor of Arts Special (Languages)",
+        "faculty_id": "64"
+    },
+    {
+        "id": "584",
+        "name": "Bachelor of Arts Special (Social Sciences)",
+        "faculty_id": "64"
+    },
+    {
+        "id": "585",
+        "name": "Bachelor of Industrial Information Technology",
+        "faculty_id": "65"
+    },
+    {
+        "id": "586",
+        "name": "Bachelor of Science in Computer Sc. & Tech.",
+        "faculty_id": "65"
+    },
+    {
+        "id": "587",
+        "name": "Bachelor of Science in Mineral Resources & Technology",
+        "faculty_id": "65"
+    },
+    {
+        "id": "588",
+        "name": "Bachelor of Technology",
+        "faculty_id": "65"
+    },
+    {
+        "id": "589",
+        "name": "Bachelor of Business Management in Entrepreneurship & Management",
+        "faculty_id": "66"
+    },
+    {
+        "id": "590",
+        "name": "Bachelor of Business Management in Hospitality,Tourism & Events Management",
+        "faculty_id": "66"
+    },
+    {
+        "id": "591",
+        "name": "Bachelor of Animal Science",
+        "faculty_id": "67"
+    },
+    {
+        "id": "592",
+        "name": "Bachelor of Science in Aquatic Resources Technology",
+        "faculty_id": "67"
+    },
+    {
+        "id": "593",
+        "name": "Bachelor of Science in Computer Science and Technology",
+        "faculty_id": "67"
+    },
+    {
+        "id": "594",
+        "name": "Bachelor of Science in Export Agriculture",
+        "faculty_id": "67"
+    },
+    {
+        "id": "595",
+        "name": "Bachelor of Science in Industrial InformationTechnology",
+        "faculty_id": "67"
+    },
+    {
+        "id": "596",
+        "name": "Bachelor of Science in Palm & Latex Tech.& Value Addition",
+        "faculty_id": "67"
+    }, 
+    {
+        "id": "597",
+        "name": "Bachelor of Science in Tea Technology & Value Addition",
+        "faculty_id": "16"
+    },
+    {
+        "id": "598",
+        "name": "BBM in Enterpreneurship and Management",
+        "faculty_id": "16"
+    }, 
+    {
+        "id": "599",
+        "name": "BBM in Hospitality Tourism and Event Management",
+        "faculty_id": "16"
+    },
+    {
+        "id": "600",
+        "name": "BSc in Mineral Resources and Technology",
+        "faculty_id": "16"
+    }, 
+    {
+        "id": "601",
+        "name": "BTech in Science and Technology",
+        "faculty_id": "16"
+    },
+    {
+        "id": "602",
+        "name": "Bachelor of Performing Arts (Special) in Kandyan Dance",
+        "faculty_id": "68"
+    }, 
+    {
+        "id": "603",
+        "name": "Bachelor of Performing Arts (Special) in Kandyan Drumming",
+        "faculty_id": "68"
+    },
+    {
+        "id": "604",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Up Country Drumming",
+        "faculty_id": "68"
+    }, 
+    {
+        "id": "605",
+        "name": "Bachelor of Performing Arts (Special) Degree in Acting",
+        "faculty_id": "68"
+    },
+    {
+        "id": "606",
+        "name": "Bachelor of Performing Arts (Special) Degree in Bharatha Nattyam",
+        "faculty_id": "98"
+    },
+    {
+        "id": "607",
+        "name": "Bachelor of Performing Arts (Special) Degree in Kathak",
+        "faculty_id": "68"
+    },
+    {
+        "id": "608",
+        "name": "Bachelor of Performing Arts (Special) Degree in Low Country Dance",
+        "faculty_id": "68"
+    }, 
+    {
+        "id": "609",
+        "name": "Bachelor of Performing Arts (Special) Degree in Low Country Drumming",
+        "faculty_id": "68"
+    },
+    {
+        "id": "610",
+        "name": "Bachelor of Performing Arts (Special) Degree in Sabaragamuwa Dance",
+        "faculty_id": "68"
+    }, 
+    {
+        "id": "611",
+        "name": "Bachelor of Performing Arts (Special) Degree in Sabaragamuwa Drumming",
+        "faculty_id": "68"
+    },
+    {
+        "id": "612",
+        "name": "Bachelor of Performing Arts (Special) Degree in Script Writing and Directing",
+        "faculty_id": "68"
+    }, 
+    {
+        "id": "613",
+        "name": "Bachelor of Performing Arts (Special) Degree in Up Country Dance",
+        "faculty_id": "68"
+    },
+    {
+        "id": "614",
+        "name": "Bachelor of Performing Arts (Special) Degree in Up Country Drumming",
+        "faculty_id": "68"
+    }, 
+    {
+        "id": "615",
+        "name": "Bachelor of Performing Arts (Special) Degree in Video Dance",
+        "faculty_id": "68"
+    },
+    {
+        "id": "616",
+        "name": "Bachelor of Performing Arts joint (Special) Degree in Bharatha Nattyam",
+        "faculty_id": "68"
+    }, 
     {
         "id": "",
         "name": "",
@@ -1465,7 +2091,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1475,7 +2101,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1485,7 +2111,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1495,7 +2121,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1505,7 +2131,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1515,7 +2141,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1525,7 +2151,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1535,7 +2161,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1545,7 +2171,7 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
@@ -1555,12 +2181,27 @@
         "id": "",
         "name": "",
         "faculty_id": ""
-    },
+    }, 
     {
         "id": "",
         "name": "",
         "faculty_id": ""
     },
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }, 
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }, 
+    {
+        "id": "",
+        "name": "",
+        "faculty_id": ""
+    }, 
     {
         "id": "",
         "name": "",
