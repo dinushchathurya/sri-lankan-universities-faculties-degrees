@@ -13,4 +13,5 @@
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDinushChathurya">
 <img src="https://img.shields.io/badge/made%20with%20love-by%20srilanka-orange">
 </p>
-### All Srilankan Universities, Faculties and Undegraduate Degrees
+
+### All Srilankan Universities, Faculties and Undegraduate 
