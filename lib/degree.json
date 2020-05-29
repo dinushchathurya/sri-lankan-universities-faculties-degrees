@@ -2083,129 +2083,268 @@
         "faculty_id": "68"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "617",
+        "name": "Bachelor of Performing Arts joint (Special) Degree in Kathak",
+        "faculty_id": "68"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "618",
+        "name": "Bachelor of Performing Arts joint (Special) Degree in Low Country Dance",
+        "faculty_id": "68"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "619",
+        "name": "Bachelor of Performing Arts joint (Special) Degree in Sabaragamuwa Dance",
+        "faculty_id": "68"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "620",
+        "name": "Bachelor of Performing Arts joint (Special) Degree in Up Country Dance",
+        "faculty_id": "68"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "621",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Acting",
+        "faculty_id": "68"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "622",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in History and Theory of Dance and Drama",
+        "faculty_id": "68"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "623",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Low Country Drumming",
+        "faculty_id": "68"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "624",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Oriental Ballet & Modern Dance",
+        "faculty_id": "68"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "625",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Sabaragamuwa Drumming",
+        "faculty_id": "68"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "626",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Script Writing and Directing",
+        "faculty_id": "68"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "627",
+        "name": "Bachelor of Performing Arts joint(Special) Degree in Video Dance",
+        "faculty_id": "68"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "628",
+        "name": "Bachelor of Fine Arts (Special) in Applied Music",
+        "faculty_id": "69"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "629",
+        "name": "Bachelor of Fine Arts (Special) in Comparative Music",
+        "faculty_id": "69"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "630",
+        "name": "Bachelor of Fine Arts (Special) in Ethno-Musicology",
+        "faculty_id": "69"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "631",
+        "name": "Bachelor of Fine Arts (Special) in North Indian Music",
+        "faculty_id": "69"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "632",
+        "name": "Bachelor of Fine Arts (Special) in South Indian Music",
+        "faculty_id": "69"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "633",
+        "name": "Bachelor of Fine Arts (Special) in Western Music",
+        "faculty_id": "69"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "634",
+        "name": "Bachelor of Visual Arts Ceramic",
+        "faculty_id": "70"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "635",
+        "name": "Bachelor of Visual Arts History & Art Theories",
+        "faculty_id": "70"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "636",
+        "name": "Bachelor of Visual Arts Multidiciplinary Design",
+        "faculty_id": "70"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "637",
+        "name": "Bachelor of Visual Arts Multimedia Art",
+        "faculty_id": "70"
     },
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "638",
+        "name": "Bachelor of Visual Arts Painting",
+        "faculty_id": "70"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "639",
+        "name": "Bachelor of Visual Arts Planning",
+        "faculty_id": "70"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "640",
+        "name": "Bachelor of Visual Arts Printmaking",
+        "faculty_id": "70"
     }, 
     {
-        "id": "",
-        "name": "",
-        "faculty_id": ""
+        "id": "641",
+        "name": "Bachelor of Visual Arts Sculpture",
+        "faculty_id": "70"
+    }, 
+    {
+        "id": "642",
+        "name": "Bachelor of Visual Arts Textile & Wearable Arts",
+        "faculty_id": "70"
+    }, 
+    {
+        "id": "643",
+        "name": "Bachelor of Visual Arts Visual Communication Design",
+        "faculty_id": "70"
+    }, 
+    {
+        "id": "644",
+        "name": "B.Sc. in Applied Mathematics and Computing",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "645",
+        "name": "B.Sc. (Special) in Computer Science",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "646",
+        "name": "B.Sc. in Environmental Science",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "647",
+        "name": "B.Sc. (Special) in Information Communication Technology",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "648",
+        "name": "B.Sc. (Applied Mathematics & Computing)",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "649",
+        "name": "B.Sc. (Environmental Science)",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "650",
+        "name": "B.Sc. (Special in Applied Mathematics and Computing)",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "651",
+        "name": "B.Sc. (Special in Environmental Science)",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "652",
+        "name": "Bachelor of Information and Communication Technology",
+        "faculty_id": "71"
+    }, 
+    {
+        "id": "653",
+        "name": "Bachelor of Business Management (General)",
+        "faculty_id": "72"
+    }, 
+    {
+        "id": "654",
+        "name": "Bachelor of Business Management (Special) in Accountancy & Finance",
+        "faculty_id": "72"
+    }, 
+    {
+        "id": "655",
+        "name": "Bachelor of Business Management (Special) in Business Economics",
+        "faculty_id": "72"
+    }, 
+    {
+        "id": "656",
+        "name": "Bachelor of Business Management (Special) in Marketing Management",
+        "faculty_id": "72"
+    }, 
+    {
+        "id": "657",
+        "name": "Bachelor of Arts (Special) in Communication",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "658",
+        "name": "Bachelor of Arts (Majoring) in Communication",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "659",
+        "name": "Bachelor of Arts (Majoring) in English Language",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "660",
+        "name": "Bachelor of Arts (Majoring) in Linguistics",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "661",
+        "name": "Bachelor of Science (Majoring) in Accounting & Financial Management",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "662",
+        "name": "Bachelor of Science (Majoring) in Human Resource Management",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "663",
+        "name": "Bachelor of Science (Majoring) in Information Management",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "664",
+        "name": "Bachelor of Science (Majoring) in Management",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "665",
+        "name": "Bachelor of Science (Majoring) in Marketing",
+        "faculty_id": "73"
+    }, 
+    {
+        "id": "666",
+        "name": "Bachelor of Computer Science (Special)",
+        "faculty_id": "74"
+    }, 
+    {
+        "id": "667",
+        "name": "Bachelor of Computer Science (General)",
+        "faculty_id": "74"
+    }, 
+    {
+        "id": "668",
+        "name": "Bachelor of Information Technology (Special)",
+        "faculty_id": "74"
+    }, 
+    {
+        "id": "669",
+        "name": "Bachelor of Information Technology (General)",
+        "faculty_id": "74"
     }
-
 ]

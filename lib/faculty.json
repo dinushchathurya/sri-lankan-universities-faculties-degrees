@@ -336,13 +336,40 @@
         "id": "67",
         "name": "Faculty of Science & Technology",
         "university_id": "14"
-    }, {
+    }, 
+    {
         "id": "68",
         "name": "Faculty of Dance and Drama",
         "university_id": "15"
-    }, {
-        "id": "",
-        "name": "",
-        "university_id": ""
+    }, 
+    {
+        "id": "69",
+        "name": "Faculty of Music",
+        "university_id": "15"
+    }, 
+    {
+        "id": "70",
+        "name": "Faculty of Visual Arts",
+        "university_id": "15"
+    }, 
+    {
+        "id": "71",
+        "name": "Faculty of Applied Sciences",
+        "university_id": "16"
+    }, 
+    {
+        "id": "72",
+        "name": "Faculty of Business Studies",
+        "university_id": "16"
+    }, 
+    {
+        "id": "73",
+        "name": "Faculty of Communication and Buisiness Studies",
+        "university_id": "17"
+    }, 
+    {
+        "id": "74",
+        "name": "Faculty of Applied Sciences",
+        "university_id": "17"
     }
 ]

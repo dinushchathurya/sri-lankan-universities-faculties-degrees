@@ -103,5 +103,19 @@
         "name": "University of the Visual and Performing Arts",
         "address": "No 21, Albert Crescent, Colombo 07. Sri Lanka",
         "phonecode": "+94 (11) 269 6971"
+    },
+    {
+        "id": "16",
+        "sortname" : "VC",
+        "name": "Vavuniya Campus",
+        "address" : "Vauniya, Sri Lanka",
+        "phonecode": "+94 (24) 324 8189"
+    }, 
+    {
+        "id": "17",
+        "sortname": "TC",
+        "name": "Trincomalee Campus",
+        "address": "Konesapuri,  Nilaveli, Sri Lanka",
+        "phonecode": "+94 (26) 222 7410"
     }
 ]
